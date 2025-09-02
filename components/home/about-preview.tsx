@@ -25,7 +25,7 @@ export function AboutPreview() {
             initial="hidden"
             whileInView="show"
             viewport={{ once: true }}
-            className="relative h-[650px] w-[550px] rounded-lg overflow-hidden"
+            className="relative h-[400px] rounded-lg overflow-hidden"
           >
             <Image
               src="https://i.im.ge/2025/08/28/nogX7y.ChatGPT-Image-Aug-28-2025-03-46-43-PM.png"

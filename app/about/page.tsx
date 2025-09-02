@@ -55,7 +55,7 @@ export default function AboutPage() {
 
           <motion.div
             variants={fadeIn("left", 0.3)}
-            className="relative h-[700px] w-[600px]"
+            className="relative h-[400px] rounded-lg overflow-hidden"
           >
             <Image
               src="https://i.im.ge/2025/08/28/nogX7y.ChatGPT-Image-Aug-28-2025-03-46-43-PM.png"
