@@ -65,7 +65,8 @@ Set publish directory: dist
 Click Deploy 🚀
 
 📸 Screenshots
-<img width="1899" height="834" alt="Screenshot 2025-09-08 101400" src="https://github.com/user-attachments/assets/6af383aa-3d4c-4015-afe9-40cfdacdb741" />
+
+<img width="1884" height="900" alt="vadivel image" src="https://github.com/user-attachments/assets/aaaf34be-3d97-4b2a-b482-afa62b021b2c" />
 
 
 
